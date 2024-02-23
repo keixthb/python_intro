@@ -11,3 +11,6 @@ python *.py
 
 ## Aditional Information:
 
+File ```mandelbrot_set.py``` depends on ```mpi4py``` which depends on openmpi.
+
+Tutorial coming soon. 
